@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "es5", // converting ts to es
+    "module": "commonjs",
+    "sourceMap": true
+  }
+}
